@@ -40,7 +40,7 @@ public class Box<T> {
   - V - Valor
   - S, U, V, etc. - 2º, 3º, 4º tipos
 
-##Vantagens simples de usar generics nas interfaces Collection em Java:
+## Vantagens simples de usar generics nas interfaces Collection em Java:
 
 1. Segurança do tipo de dados: O uso de generics garante que apenas objetos de um tipo específico possam ser adicionados à coleção, evitando erros de tipo e garantindo que você esteja lidando com os dados corretos.
 2. Código mais legível: Ao usar generics, você pode especificar o tipo de dados esperado ou retornado pela coleção, o que torna o código mais fácil de entender e ler.
@@ -48,5 +48,5 @@ public class Box<T> {
 4. Reutilização de código: Com generics, você pode criar classes e métodos genéricos que funcionam com diferentes tipos de coleções, evitando a necessidade de duplicar código para cada tipo específico.
 5. Melhor desempenho: O uso de generics pode melhorar o desempenho, pois evita a necessidade de conversões de tipo desnecessárias e permite que o compilador otimize o código com base no tipo especificado.
 
-##Referências:
+## Referências:
 [1] "Java Tutorials - Generics - Generic Types." Oracle. Disponível em: (https://docs.oracle.com/javase/tutorial/java/generics/types.html).
