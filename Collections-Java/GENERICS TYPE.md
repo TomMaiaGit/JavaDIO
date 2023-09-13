@@ -1,4 +1,4 @@
-#### Generics Type
+## Generics Type
 * Um tipo genérico é uma classe genérica ou uma interface que é parametrizada em relação a tipos.
 * A classe Box a seguir será modificada para demonstrar o conceito:
 
