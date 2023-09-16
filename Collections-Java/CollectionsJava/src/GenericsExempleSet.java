@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class GenericsExempleSet {
-    public static void main(String[] args) {git
+    public static void main(String[] args) {
         // Exemplo sem Generics
         Set conjuntoSemGenerics = new HashSet();
         conjuntoSemGenerics.add("Elemento 1");
