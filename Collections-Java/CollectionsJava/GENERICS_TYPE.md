@@ -49,4 +49,4 @@ public class Box<T> {
 5. Melhor desempenho: O uso de generics pode melhorar o desempenho, pois evita a necessidade de conversões de tipo desnecessárias e permite que o compilador otimize o código com base no tipo especificado.
 
 ## Referências:
-[1] "Java Tutorials - Generics - Generic Types." Oracle. Disponível em: (https://docs.oracle.com/javase/tutorial/java/generics/types.html).
+[1] "Java Tutorials - generics - Generic Types." Oracle. Disponível em: (https://docs.oracle.com/javase/tutorial/java/generics/types.html).
